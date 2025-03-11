@@ -25,8 +25,7 @@
     "sso_site_url": "https://betezadi.ir"
   },
   "development": {
-    "_base_url": "https://b.gardeshium.ir/api",
-    "base_url": "https://gardeshium.bpcs.ir/api",
+    "base_url": "https://b.gardeshium.ir/api",
     "redirect_uri": "http://localhost:3000/",
     "sso_site_url": "https://betezadi.ir"
   }

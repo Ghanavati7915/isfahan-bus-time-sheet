@@ -17,7 +17,7 @@ const onSelect = async (data: any) => {
 //#endregion
 </script>
 <template>
-    <div class="p-7 mt-8 text-center">
+    <div class="p-7 text-center rounded-t-lg text-slate-800 bg-gradient-to-b from-white dark:text-white dark:bg-slate-800 border-t border-t-slate-300 border-x border-x-slate-300  h-auto min-h-full justify-center">
 
         <div class="flex flex-col">
             <span class="Estedad_FD_Bold text-sm  text-slate-900 dark:text-white mb-3"> اطلاع رسانی سفر </span>
